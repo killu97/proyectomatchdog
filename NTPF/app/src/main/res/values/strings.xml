@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NTPF</string>
+    <string name="nav_header_title">Regístrate para +</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tab_text_uno">Buscador</string>
+    <string name="tab_text_dos">Chat</string>
+    <string name="tab_text_tres">Favoritos</string>
+    <string name="Cargando_pi">Cargando</string>
+    <string name="Porcentaje"></string>
+
+    <string name="name">Nombre</string>
+    <string name="mensaje">Mensaje a enviar</string>
+</resources>
